@@ -9,5 +9,4 @@
 dashboard/data/__pycache__
 dashboard/view/__pycache__
 deploy/notebooks/__pycache__
-/data/*
 .DS_Store
