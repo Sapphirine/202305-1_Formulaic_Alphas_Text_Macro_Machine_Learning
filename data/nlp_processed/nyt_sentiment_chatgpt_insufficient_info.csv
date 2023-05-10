@@ -1,0 +1,769 @@
+ticker,pub_date,main_headline,ChatGPT_sentiment,finbert_positive,finbert_negative,finbert_neutral,lmd_negative_words_count,lmd_positive_words_count,lmd_uncertain_words_count,lmd_litigious_words_count,lmd_strong_modal_words_count,lmd_weak_modal_words_count,word_count
+AAL,2014-01-31,"In the Event of an Air Emergency, Remember What Alf Said",Insufficient information,0.03656359,0.03890979,0.92452663,0,0,0,0,0,0,11
+ACN,2012-06-21,"In Detroit, the Green Garage Is a Different Kind of Incubator",Insufficient information,0.027406512,0.07490563,0.8976879,0,0,0,0,0,0,11
+ADBE,2020-11-25,The Pandemic Work Diary of a Podcasting Tech Editor,Insufficient information,0.026809204,0.053277776,0.91991305,0,0,0,0,0,0,9
+ADS,2010-08-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+ADS,2011-01-24,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+ADS,2020-01-16,"The Work Diary of Derrius Quarles, Million-Dollar Multitasker",Insufficient information,0.05292966,0.030450564,0.9166198,0,0,0,0,0,0,8
+ADSK,2012-05-05,Never Swerve When Driving the Bus,Insufficient information,0.04325823,0.025976531,0.9307652,0,0,0,0,1,0,6
+AEP,2011-10-08,The Wizard and the Mortal: Two Sides of Genius,Insufficient information,0.040307637,0.048322782,0.91136956,0,0,0,0,0,0,9
+AIV,2021-01-15,The Work Diary of an Executive Who Must Find Just the Right Words,Insufficient information,0.0376508,0.07228487,0.89006436,0,0,0,0,1,0,13
+AKS,2018-03-02,Would a Broadcom-Qualcomm Deal Really Shift the 5G race?: DealBook Briefing,Insufficient information,0.13305221,0.014477435,0.85247034,0,0,0,0,0,0,11
+ALGN,2010-01-25,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+ALGN,2011-05-02,"Casting Yourself in a Wild, Forgotten Night",Insufficient information,0.03239235,0.13394454,0.8336631,0,0,0,0,0,0,7
+ALGN,2011-07-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+AMAT,2011-06-04,"Bend Me, Shape Me: The Heavy-Metal Version",Insufficient information,0.040887542,0.026917145,0.93219525,0,0,0,0,0,0,7
+AMAT,2010-01-13,People of Earth Respond to Conan,Insufficient information,0.0674158,0.019349659,0.91323453,0,0,0,0,0,0,6
+AMG,2011-03-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+AMG,2010-06-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+AMG,2012-11-05,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+AMG,2010-12-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+AMG,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+AMG,2010-03-01,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+AMG,2010-09-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+AMGN,2010-05-14,"Daisy, Daisy, Give Me Your Answer Do: Care to Ride a Virtual Bicycle?",Insufficient information,0.03152182,0.03664203,0.9318361,0,0,0,0,0,0,13
+AMP,2010-02-01,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+ARG,2014-01-08,The Meaning for Businesses in Delaware’s Judicial Nomination,Insufficient information,0.03254282,0.04632736,0.9211299,0,0,0,1,0,0,8
+ARG,2010-11-09,"Kindler, Yoga and the Art of Deal-Making",Insufficient information,0.039858386,0.037897464,0.92224413,0,0,0,0,0,0,7
+ATVI,2014-01-08,The Meaning for Businesses in Delaware’s Judicial Nomination,Insufficient information,0.03254282,0.04632736,0.9211299,0,0,0,1,0,0,8
+ATVI,2010-03-08,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+ATVI,2013-04-27,Where the Artists Are the Superheroes,Insufficient information,0.023938188,0.04839782,0.92766404,0,0,0,0,0,0,6
+AVP,2011-06-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+AVP,2011-03-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+AVY,2010-06-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+BA,2013-01-12,"Pictures From the Week in Business, Jan. 11",Insufficient information,0.0195009,0.09481926,0.8856798,0,0,0,0,0,0,8
+BALL,2019-11-20,"One Whopper Jr., Hold the Toy",Insufficient information,0.041147653,0.020168867,0.9386835,0,0,0,0,0,0,6
+BAX,2010-03-22,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+BAX,2011-05-16,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+BBY,2011-05-20,Best and Worst Scenes From Upfront Week,Insufficient information,0.028205462,0.1829567,0.78883785,1,1,0,0,1,0,7
+BEAM,2012-11-05,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+BEAM,2014-01-21,Who’s In and Who’s Out at Davos,Insufficient information,0.0345339,0.0356565,0.9298096,0,0,0,0,0,0,7
+BEAM,2011-11-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+BEAM,2011-01-29,"Messages From the Wilderness, via Satellite",Insufficient information,0.047744155,0.027087418,0.92516845,0,0,0,0,0,0,6
+BEAM,2018-07-28,Beauty Is in the Eye of These Beholders,Insufficient information,0.09988964,0.01548379,0.8846266,0,0,0,0,0,0,8
+BF.B,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+BF.B,2010-08-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+BIG,2014-05-26,"Adapt Fast, Be Responsive and Listen a Lot",Insufficient information,0.089076295,0.0143931545,0.89653057,0,0,0,0,0,0,8
+BK,2012-03-26,Is It O.K. to Joke About Occupy Now?,Insufficient information,0.028096171,0.3338961,0.63800776,0,0,0,0,0,0,8
+BKNG,2020-01-31,These Brands Said No to Running Super Bowl Commercials,Insufficient information,0.026105894,0.046039384,0.92785466,0,0,0,0,0,0,9
+BKNG,2011-10-03,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+BLK,2013-02-13,Meet the Morgan Stanley C.F.O. Candidates,Insufficient information,0.0627611,0.01840397,0.9188349,0,0,0,0,0,0,6
+BMY,2011-07-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+BMY,2011-01-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+BMY,2012-11-12,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+BRCM,2018-03-02,Would a Broadcom-Qualcomm Deal Really Shift the 5G race?: DealBook Briefing,Insufficient information,0.13305221,0.014477435,0.85247034,0,0,0,0,0,0,11
+BRK.B,2010-06-03,Buffett and Moody's Chief Before Panel,Insufficient information,0.061640326,0.030426431,0.9079333,0,0,0,0,0,0,6
+BRK.B,2017-01-05,"Morning Agenda: Leading the S.E.C., Women in Law, Tech Giants",Insufficient information,0.079859324,0.013642942,0.9064978,0,1,0,0,0,0,10
+BSX,2010-09-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CA,2010-06-09,Women and Technology and Myth,Insufficient information,0.04068998,0.036044355,0.92326564,0,0,0,0,0,0,5
+CA,2017-05-26,Your Coffee Is From Where? California?,Insufficient information,0.042862054,0.04063439,0.9165036,0,0,0,0,0,0,6
+CAG,2020-06-18,What Should Companies Do on Juneteenth?,Insufficient information,0.026323222,0.041448906,0.9322279,0,0,0,0,0,0,6
+CBE,2010-10-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CBE,2010-08-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CCE,2019-11-19,These Villages in Thailand Are Part of the Global Economy. Go to Ikea to Find Out.,Insufficient information,0.043282755,0.021903722,0.9348135,0,0,0,0,0,0,16
+CCE,2011-09-19,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CEG,2012-05-18,"Introducing Deirdre Lord, a New Business Group Member",Insufficient information,0.07451871,0.016096171,0.90938514,0,0,0,0,0,0,8
+CF,2010-11-09,"Kindler, Yoga and the Art of Deal-Making",Insufficient information,0.039858386,0.037897464,0.92224413,0,0,0,0,0,0,7
+CHD,2010-10-25,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+CHTR,2010-12-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CHTR,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+CINF,2011-07-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2010-08-30,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2011-07-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2010-11-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2010-08-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2010-09-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2011-03-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2011-03-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2011-08-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2011-10-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CINF,2012-12-17,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+CLX,2011-08-19,"The Week That Was, in Verse",Insufficient information,0.039466105,0.07726729,0.88326657,0,0,0,0,0,0,6
+CLX,2018-10-23,"This Thermometer Tells Your Temperature, Then Tells Firms Where to Advertise",Insufficient information,0.0264226,0.026027532,0.9475499,0,0,0,0,0,0,11
+CLX,2010-03-29,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+CLX,2011-09-02,"The Week That Was, in Verse",Insufficient information,0.039466105,0.07726729,0.88326657,0,0,0,0,0,0,6
+CLX,2011-07-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CMCSA,2009-12-04,The Peacock Sits in the Back,Insufficient information,0.03922478,0.026666846,0.9341084,0,0,0,0,0,0,6
+CMCSA,2010-05-24,"After NBC, Will ABC and CBS Be Next on the Block?",Insufficient information,0.035024796,0.03828487,0.9266904,0,0,0,0,1,0,11
+CMCSA,2011-05-16,Live Blogging the Upfronts: NBC,Insufficient information,0.027246661,0.03973826,0.9330151,0,0,0,0,0,0,5
+CMCSA,2011-11-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CMG,2012-02-10,An Animated Ad With a Plot Line and a Moral,Insufficient information,0.026431676,0.037715133,0.9358532,0,0,0,0,0,0,10
+CMG,2022-01-21,How Much Are You Willing to Pay for a Burrito?,Insufficient information,0.055571496,0.02345527,0.9209732,0,0,0,0,0,0,10
+CMG,2010-01-19,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+COF,2010-06-08,A Spotlight Big Enough for One Bad Guy at a Time,Insufficient information,0.0800868,0.03587013,0.8840431,1,0,0,0,0,0,11
+COST,2017-12-27,"When Picking Apples on a Farm With 5,000 Rules, Watch Out for the Ladders",Insufficient information,0.042855367,0.028515631,0.9286289,0,0,0,0,0,0,14
+COTY,2018-07-28,Beauty Is in the Eye of These Beholders,Insufficient information,0.09988964,0.01548379,0.8846266,0,0,0,0,0,0,8
+CPB,2011-11-28,"Just Asking About J. Lo, Coke Zero and Cookies",Insufficient information,0.036415894,0.02949352,0.9340906,0,0,0,0,0,0,9
+CPB,2010-06-07,"Sit Under the Apple Tree With Me, Juice Brand Asks",Insufficient information,0.04550807,0.027935596,0.9265563,0,0,0,0,0,0,10
+CRM,2021-05-07,"Can Companies Require Vaccination, and Should They?",Insufficient information,0.045028467,0.028441902,0.9265296,0,0,0,0,0,0,7
+CSC,2010-08-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CSCO,2014-07-31,Tell Me About Your Next Job,Insufficient information,0.034875754,0.031431463,0.9336928,0,0,0,0,0,0,6
+CSX,2013-11-29,"Two Marilyns, Six Scotches and 20 Hamburger Toppings",Insufficient information,0.042193282,0.03914543,0.91866136,0,0,0,0,0,0,8
+CVC,2010-01-22,"Speed Read for Friday, Jan. 22",Insufficient information,0.022308959,0.07921512,0.89847594,0,0,0,0,0,0,6
+CVC,2010-01-25,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+CVC,2011-05-16,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CVC,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CVS,2010-11-08,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+CVS,2021-05-07,"Can Companies Require Vaccination, and Should They?",Insufficient information,0.045028467,0.028441902,0.9265296,0,0,0,0,0,0,7
+CVX,2021-05-07,"Can Companies Require Vaccination, and Should They?",Insufficient information,0.045028467,0.028441902,0.9265296,0,0,0,0,0,0,7
+CZR,2009-12-07,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+CZR,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+DAL,2014-01-31,"In the Event of an Air Emergency, Remember What Alf Said",Insufficient information,0.03656359,0.03890979,0.92452663,0,0,0,0,0,0,11
+DAL,2022-04-19,Here’s how U.S. airlines are changing their mask rules.,Insufficient information,0.028462008,0.049384862,0.92215306,0,0,0,0,0,0,9
+DAL,2010-05-05,Rumblings in the New York Skies,Insufficient information,0.04284463,0.73159933,0.22555599,0,0,0,0,0,0,6
+DE,2019-07-19,When Corporate Lobbies Started to Look Like Museum Galleries,Insufficient information,0.030280262,0.058732554,0.9109872,0,0,0,0,0,0,9
+DELL,2011-06-27,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DF,2011-03-21,Will Mickey Mouse Wear a Milk Mustache?,Insufficient information,0.03362439,0.11117654,0.85519904,0,0,0,0,1,0,7
+DFS,2010-11-29,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DG,2012-08-18,This Week’s Business News in Pictures,Insufficient information,0.03919304,0.04923197,0.91157496,0,0,0,0,0,0,6
+DG,2012-01-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DG,2010-11-08,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DIS,2011-07-15,The Real Winnie the Pooh Returns to the Hundred Acre Wood,Insufficient information,0.058486838,0.03136315,0.91015005,0,0,0,0,0,0,11
+DIS,2010-11-04,"Now I’ve Said My ABCs, Tell Me What My Social Values Should Be",Insufficient information,0.050044432,0.022714768,0.9272407,0,0,0,0,0,0,13
+DIS,2013-12-28,Turkey Legs Conquer Land of Mouse Ears,Insufficient information,0.09410936,0.016507536,0.8893831,0,0,0,0,0,0,7
+DIS,2011-03-21,Will Mickey Mouse Wear a Milk Mustache?,Insufficient information,0.03362439,0.11117654,0.85519904,0,0,0,0,1,0,7
+DISH,2010-08-15,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+DISH,2016-09-19,"Larry King, the Russian Media and a Partisan Landscape",Insufficient information,0.03397183,0.0746647,0.89136344,0,0,0,0,0,0,9
+DISH,2010-07-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DLTR,2011-11-28,"Just Asking About J. Lo, Coke Zero and Cookies",Insufficient information,0.036415894,0.02949352,0.9340906,0,0,0,0,0,0,9
+DLTR,2012-11-05,Has Sandy Affected Your Small Business?,Insufficient information,0.012129215,0.9159595,0.07191126,0,0,0,0,0,0,6
+DLTR,2011-07-28,An Urban Jungle for the 21st Century,Insufficient information,0.06926667,0.04501029,0.88572305,0,0,0,0,0,0,7
+DLTR,2010-04-03,‘Green Gone Wrong’: Can Capitalism Save the Planet?,Insufficient information,0.14065334,0.048357386,0.81098926,0,0,0,0,0,0,8
+DOV,2011-10-30,"A Store of Images, From a Time When ‘Cut and Paste’ Meant Just That",Insufficient information,0.049707808,0.028818056,0.9214741,0,0,0,0,0,0,14
+DOV,2010-04-19,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+DOV,2010-06-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DOV,2011-09-26,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DOV,2011-07-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DOW,2011-08-05,"The Week That Was, in Verse",Insufficient information,0.039466105,0.07726729,0.88326657,0,0,0,0,0,0,6
+DOW,2010-02-01,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+DOW,2011-11-22,"Breakfast Meeting, Nov. 22",Insufficient information,0.026198613,0.06666756,0.9071339,0,0,0,0,0,0,4
+DPS,2011-02-07,"Dr, Dr, Give Me Some Clues",Insufficient information,0.06208933,0.023701603,0.91420907,0,0,0,0,0,0,6
+DPS,2021-10-19,Please Unmute Your Mutt,Insufficient information,0.023432026,0.066472955,0.91009504,0,0,0,0,0,0,4
+DPZ,2022-01-21,How Much Are You Willing to Pay for a Burrito?,Insufficient information,0.055571496,0.02345527,0.9209732,0,0,0,0,0,0,10
+DRI,2010-03-29,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+DTV,2012-01-10,The Breakfast Meeting: 3-D Olympics and Clearing the Way for Blue Ivy,Insufficient information,0.11876011,0.014399328,0.8668405,0,0,0,0,0,0,12
+DTV,2010-08-15,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+DTV,2010-11-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DTV,2011-03-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DUK,2021-05-07,"Can Companies Require Vaccination, and Should They?",Insufficient information,0.045028467,0.028441902,0.9265296,0,0,0,0,0,0,7
+DV,2013-12-02,Accounts and People of Note in the Advertising Industry,Insufficient information,0.030389981,0.03158816,0.9380219,0,0,0,0,0,0,9
+DV,2010-12-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+DXCM,2019-07-15,"Is Your Heartbeat Off, or Blood Sugar High? On the Road, You Can Keep Track",Insufficient information,0.09371978,0.038711116,0.8675691,0,0,0,0,0,0,15
+EA,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+EA,2013-04-27,Where the Artists Are the Superheroes,Insufficient information,0.023938188,0.04839782,0.92766404,0,0,0,0,0,0,6
+EBAY,2010-02-12,What We’re Reading …,Insufficient information,0.04232309,0.029918227,0.92775863,0,0,0,0,0,0,4
+EFX,2018-03-02,Would a Broadcom-Qualcomm Deal Really Shift the 5G race?: DealBook Briefing,Insufficient information,0.13305221,0.014477435,0.85247034,0,0,0,0,0,0,11
+EK,2012-02-18,"In Rochester, a Photo Album Like No Other",Insufficient information,0.043344658,0.024153577,0.9325018,0,0,0,0,0,0,8
+EK,2010-05-17,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+EL,2017-11-22,Young and in Love … With Lipstick and Eyeliner,Insufficient information,0.08353945,0.06554495,0.85091555,0,0,0,0,0,0,9
+EL,2020-08-21,What we overheard on earnings calls.,Insufficient information,0.036467172,0.037491743,0.92604107,0,0,0,0,0,0,6
+EL,2018-07-28,Beauty Is in the Eye of These Beholders,Insufficient information,0.09988964,0.01548379,0.8846266,0,0,0,0,0,0,8
+EL,2013-04-15,Choosing a Scent That Suits Your Business Destination,Insufficient information,0.053418607,0.017407928,0.92917347,0,0,0,0,0,0,8
+EMC,2010-05-11,Is Hertz’s Dollar Thrifty Deal Too Good – for Hertz?,Insufficient information,0.04957622,0.177573,0.77285075,0,1,0,0,0,0,10
+EMR,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+EQR,2014-01-28,"Introducing Jennifer Blumin, New Business Group Member",Insufficient information,0.04863779,0.022760497,0.9286017,0,0,0,0,0,0,7
+EQR,2020-05-02,My Retirement Plan Is You,Insufficient information,0.02386579,0.035325825,0.9408084,0,0,0,0,0,0,5
+ETFC,2013-09-04,"Green Eggs and E-Books? Thank You, Sam-I-Am",Insufficient information,0.1564808,0.013226512,0.8302927,0,0,0,0,0,0,7
+ETFC,2013-01-23,New Path for Trade: Selling in China ,Insufficient information,0.18378435,0.010115953,0.8060997,0,0,0,0,0,0,8
+ETFC,2011-10-14,Dreaming About Dancing the Cha-Cha on the Trading Floor,Insufficient information,0.038950983,0.09160384,0.8694452,0,0,0,0,0,0,9
+ETN,2011-03-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+ETN,2010-01-11,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+ETSY,2011-11-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+ETSY,2010-06-07,"Sit Under the Apple Tree With Me, Juice Brand Asks",Insufficient information,0.04550807,0.027935596,0.9265563,0,0,0,0,0,0,10
+EXPE,2019-03-04,A.I. Wants to Know How You Plan a Trip,Insufficient information,0.040507644,0.015413204,0.94407916,0,0,0,0,0,0,9
+EXPE,2014-01-14,How Was Your Stay? Post It,Insufficient information,0.056588013,0.02404797,0.919364,0,0,0,0,0,0,6
+F,2010-03-22,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+FBHS,2010-01-11,"Talk to The Times: Micheline Maynard, Aviation Correspondent",Insufficient information,0.034400377,0.026934654,0.93866503,0,0,0,0,0,0,8
+FDO,2017-10-06,"Should You Invest Your I.R.A. in Friends, Family or Charitable Work?",Insufficient information,0.037649862,0.020786801,0.9415633,0,1,0,0,0,0,11
+FDS,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+FDX,2013-11-29,"Two Marilyns, Six Scotches and 20 Hamburger Toppings",Insufficient information,0.042193282,0.03914543,0.91866136,0,0,0,0,0,0,8
+FHN,2011-03-21,Will Mickey Mouse Wear a Milk Mustache?,Insufficient information,0.03362439,0.11117654,0.85519904,0,0,0,0,1,0,7
+FHN,2021-03-31,Feeling Burned Out? We Want to Hear About It.,Insufficient information,0.048292045,0.055650126,0.8960579,1,0,0,0,0,0,9
+FHN,2010-05-17,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+FRT,2013-06-27,My Restaurant Adventure: Can I Pay With Cash?,Insufficient information,0.061855536,0.026683474,0.91146106,0,0,0,0,0,0,8
+GD,2010-12-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+GD,2015-05-06,How Many Stars for the Wi-Fi? ,Insufficient information,0.041314933,0.024734298,0.93395084,0,0,0,0,0,0,7
+GE,2012-03-17,Our Workplace: How Three Companies Innovate,Insufficient information,0.11214352,0.013746661,0.8741098,0,1,0,0,0,0,6
+GE,2010-05-24,"After NBC, Will ABC and CBS Be Next on the Block?",Insufficient information,0.035024796,0.03828487,0.9266904,0,0,0,0,1,0,11
+GEN,2018-07-28,Beauty Is in the Eye of These Beholders,Insufficient information,0.09988964,0.01548379,0.8846266,0,0,0,0,0,0,8
+GENZ,2012-11-12,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+GGP,2010-10-08,"Bill Ackman, Meet Howard Hughes",Insufficient information,0.043856528,0.01762606,0.93851745,0,0,0,0,0,0,5
+GGP,2010-06-12,"O.K., Newbies, Bring Out the Hula Hoops",Insufficient information,0.042687427,0.026587347,0.9307252,0,0,0,0,0,0,7
+GGP,2019-11-25,DealBook: Will It Be Billionaire vs. Billionaire in the 2020 Election?,Insufficient information,0.043026123,0.029314708,0.9276592,0,0,0,0,1,0,11
+GHC,2011-10-03,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+GIS,2016-06-12,When the Lone Ranger and Gracie Allen Pitched Their Sponsors’ Products,Insufficient information,0.06823544,0.029453216,0.9023113,0,0,0,0,0,0,11
+GIS,2012-03-30,Tied Together in Aisle 5: Country Acts and a Cause,Insufficient information,0.047900166,0.022447636,0.9296522,0,0,0,0,0,0,10
+GIS,2017-11-10,Are Honey Nut Cheerios Healthy? We Look Inside the Box,Insufficient information,0.059081055,0.02090005,0.9200189,0,0,0,0,0,0,10
+GIS,2014-12-01,"Christmas Cokes, Ronald McDonald on Foot and 18 More Questions",Insufficient information,0.042679254,0.025556419,0.9317643,1,0,0,0,0,0,10
+GIS,2013-03-27,"The Breakfast Meeting: Publishers Tackle Bullies, and Columnist Sparks Cat vs. Bird Dispute",Insufficient information,0.03518123,0.036744114,0.92807466,1,0,0,0,0,0,13
+GIS,2013-05-27,"20 Questions on Soap, Cereal and Related Oddities",Insufficient information,0.02507435,0.06791369,0.9070119,1,0,0,0,0,0,8
+GIS,2012-11-22,Everything’s Coming Up Pumpkin Pie,Insufficient information,0.15322989,0.019305594,0.8274645,0,0,0,0,0,0,5
+GIS,2010-03-08,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+GIS,2010-07-06,Here’s Mud on Your Skin,Insufficient information,0.049307812,0.22751768,0.7231746,0,0,0,0,0,0,5
+GIS,2011-11-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+GL,2012-08-13,"An Ambassador for Scotch, 2 Passports Needed",Insufficient information,0.037870005,0.020770524,0.9413595,0,0,0,0,0,0,7
+GL,2022-02-04,5 Things You Might Not Know About Truckers,Insufficient information,0.026516989,0.06059951,0.9128835,0,0,1,0,0,1,8
+GM,2012-08-25,This Week’s Business News in Pictures,Insufficient information,0.03919304,0.04923197,0.91157496,0,0,0,0,0,0,6
+GME,2021-05-07,"Can Companies Require Vaccination, and Should They?",Insufficient information,0.045028467,0.028441902,0.9265296,0,0,0,0,0,0,7
+GPC,2019-08-21,"Is My Millennial Co-Worker a Narcissist, or Am I a Jealous Jerk?",Insufficient information,0.025757145,0.6400605,0.33418244,0,0,0,0,0,0,12
+GPS,2011-01-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+GPS,2016-04-01,"Dottie Mattison: Talk Less, but Ask ‘Why’ More",Insufficient information,0.030700497,0.07025814,0.89904135,0,0,0,0,0,0,8
+GRMN,2018-11-09,"Always a Great Seat at the Game, if You Can Fly a Blimp",Insufficient information,0.07876012,0.015777528,0.9054624,0,0,0,0,1,0,13
+GT,2018-11-09,"Always a Great Seat at the Game, if You Can Fly a Blimp",Insufficient information,0.07876012,0.015777528,0.9054624,0,0,0,0,1,0,13
+GT,2010-04-19,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+GT,2013-12-09,"For Natural Adversary of the Bargaining Table, Labor Holds a Banquet",Insufficient information,0.027274106,0.034721363,0.9380045,1,0,0,0,0,0,11
+HAS,2012-02-25,"Go Directly, Digitally to Jail? Classic Toys Learn New Clicks",Insufficient information,0.06362398,0.030698325,0.90567774,0,0,0,0,0,0,10
+HAS,2015-02-13,Monopoly’s Inventor: The Progressive Who Didn’t Pass ‘Go’,Insufficient information,0.06663183,0.07753394,0.85583425,0,0,0,0,0,0,8
+HAS,2011-01-10,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+HAS,2011-03-21,Will Mickey Mouse Wear a Milk Mustache?,Insufficient information,0.03362439,0.11117654,0.85519904,0,0,0,0,1,0,7
+HBAN,2010-03-22,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+HD,2020-08-21,What we overheard on earnings calls.,Insufficient information,0.036467172,0.037491743,0.92604107,0,0,0,0,0,0,6
+HES,2011-05-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+HLT,2015-05-06,How Many Stars for the Wi-Fi? ,Insufficient information,0.041314933,0.024734298,0.93395084,0,0,0,0,0,0,7
+HLT,2010-11-15,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+HOG,2018-07-26,Indian Firm Wants Ohio Aluminum Maker. Will Trump Approve?,Insufficient information,0.09106039,0.016014704,0.8929249,0,0,0,0,1,0,9
+HOG,2011-07-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+HOG,2021-09-16,The Disco Ball Is How You Know She Won’t Give You a Parking Ticket,Insufficient information,0.026924027,0.07695711,0.8961189,0,0,0,0,0,0,14
+HOT,2014-01-14,How Was Your Stay? Post It,Insufficient information,0.056588013,0.02404797,0.919364,0,0,0,0,0,0,6
+HOT,2016-01-03,Be True to Yourself,Insufficient information,0.08808538,0.030717107,0.8811975,0,0,0,0,0,0,4
+HPQ,2011-07-25,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+HRL,2011-11-28,"Just Asking About J. Lo, Coke Zero and Cookies",Insufficient information,0.036415894,0.02949352,0.9340906,0,0,0,0,0,0,9
+IBM,2014-01-21,Who’s In and Who’s Out at Davos,Insufficient information,0.0345339,0.0356565,0.9298096,0,0,0,0,0,0,7
+IGT,2012-12-17,"The Breakfast Meeting: Reporting From Newtown, and a Puppet Provocateur",Insufficient information,0.04339491,0.01996731,0.9366377,0,0,0,0,0,0,10
+IGT,2010-05-05,Rumblings in the New York Skies,Insufficient information,0.04284463,0.73159933,0.22555599,0,0,0,0,0,0,6
+IGT,2010-05-05,Rumblings in the New York Skies,Insufficient information,0.04284463,0.73159933,0.22555599,0,0,0,0,0,0,6
+IGT,2012-01-14,"It Needs a Good Beat, and a Star’s Endorsement",Insufficient information,0.21279208,0.011501928,0.775706,0,1,0,0,0,0,9
+INTC,2011-03-23,What Will Blankfein Say at Galleon Trial?,Insufficient information,0.02709714,0.1240894,0.8488135,0,0,0,0,1,0,7
+INTC,2019-11-19,These Villages in Thailand Are Part of the Global Economy. Go to Ikea to Find Out.,Insufficient information,0.043282755,0.021903722,0.9348135,0,0,0,0,0,0,16
+INTU,2011-05-17,The Tech Audit: How a Small Retailer Handles I.T.,Insufficient information,0.045535143,0.022516409,0.9319485,0,0,0,0,0,0,9
+INVH,2010-12-16,How Do You Say ‘Billionaire’ in Esperanto?,Insufficient information,0.029901214,0.045381427,0.92471737,0,0,0,0,0,0,7
+INVH,2012-09-03,How to Cope at the Airport Without a Wallet,Insufficient information,0.048297495,0.09573957,0.85596293,0,0,0,0,0,0,9
+IP,2018-07-31,New York Times Names Cliff Levy as Its New Metro Editor,Insufficient information,0.036219437,0.03241615,0.93136436,0,0,0,0,0,0,11
+IP,2011-09-07,Times Names Joe Kahn Its New Foreign Editor,Insufficient information,0.037018884,0.037019502,0.9259617,0,0,0,0,0,0,8
+IP,2011-04-17,Glencore Versus Goldman,Insufficient information,0.05507725,0.021506455,0.92341626,0,0,0,0,0,0,3
+IPG,2010-08-30,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-01-11,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+IPG,2010-03-29,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+IPG,2010-01-25,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+IPG,2010-04-12,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+IPG,2010-05-17,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+IPG,2010-09-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-04-04,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-03-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-02-22,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+IPG,2010-06-14,Agency Two Fifteen Gets One More Executive,Insufficient information,0.039518993,0.021959934,0.938521,0,0,0,0,0,0,7
+IPG,2011-09-12,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-01-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-09-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-07-12,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-02-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-08-15,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+IPG,2009-12-07,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+IPG,2011-07-25,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-03-08,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+IPG,2010-03-15,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+IPG,2011-09-26,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2012-01-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-05-02,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-11-15,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-06-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-08-29,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-06-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-10-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2012-11-12,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+IPG,2011-01-24,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-09-27,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-01-11,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+IPG,2010-02-16,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+IPG,2010-11-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-03-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-06-27,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-02-22,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+IPG,2010-06-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-08-16,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2012-10-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-10-10,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-03-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2009-12-14,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+IPG,2011-07-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-08-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-04-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-10-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-03-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-10-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-07-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-07-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-05-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-04-26,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+IPG,2011-01-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-02-01,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+IPG,2010-11-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-08-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2013-08-26,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-10-25,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-05-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-09-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-11-08,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-03-29,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+IPG,2010-06-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-08-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-05-24,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+IPG,2010-01-25,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+IPG,2010-03-01,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+IPG,2010-10-04,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+IPG,2013-06-03,Accounts and People of Note in the Advertising Industry,Insufficient information,0.030389981,0.03158816,0.9380219,0,0,0,0,0,0,9
+IPG,2011-01-10,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-10-04,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-06-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2010-12-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-10-03,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-02-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2013-07-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-02-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-02-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-02-07,"Dr, Dr, Give Me Some Clues",Insufficient information,0.06208933,0.023701603,0.91420907,0,0,0,0,0,0,6
+IPG,2010-12-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IPG,2011-09-19,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IRM,2011-11-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+IT,2011-09-12,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+J,2010-07-12,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+J,2022-01-21,How Much Are You Willing to Pay for a Burrito?,Insufficient information,0.055571496,0.02345527,0.9209732,0,0,0,0,0,0,10
+J,2018-12-20,Willy Wonka and the Medical Software Factory,Insufficient information,0.04498611,0.034024302,0.9209896,0,0,0,0,0,0,7
+JCI,2010-09-17,Chief of Unit With Recalls to Exit J.&J.,Insufficient information,0.021314476,0.6023304,0.3763551,1,0,0,0,0,0,8
+JCI,2011-06-04,"Bend Me, Shape Me: The Heavy-Metal Version",Insufficient information,0.040887542,0.026917145,0.93219525,0,0,0,0,0,0,7
+JEF,2011-11-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+JEF,2021-05-07,"Can Companies Require Vaccination, and Should They?",Insufficient information,0.045028467,0.028441902,0.9265296,0,0,0,0,0,0,7
+JWN,2011-08-20,The Week’s Business News in Photos,Insufficient information,0.038577903,0.056656368,0.9047657,0,0,0,0,0,0,6
+K,2011-11-28,"Just Asking About J. Lo, Coke Zero and Cookies",Insufficient information,0.036415894,0.02949352,0.9340906,0,0,0,0,0,0,9
+K,2014-11-01,That Devil on Your Shoulder Likes to Sleep In,Insufficient information,0.03072856,0.10128559,0.8679859,0,0,0,0,0,0,9
+K,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+K,2012-11-22,Everything’s Coming Up Pumpkin Pie,Insufficient information,0.15322989,0.019305594,0.8274645,0,0,0,0,0,0,5
+K,2010-10-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KEY,2010-03-22,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+KMB,2010-08-16,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KMI,2014-01-08,The Meaning for Businesses in Delaware’s Judicial Nomination,Insufficient information,0.03254282,0.04632736,0.9211299,0,0,0,1,0,0,8
+KMI,2012-02-13,California Dreamin’ — of a Live Grammy Awards Broadcast,Insufficient information,0.17894006,0.07778968,0.7432703,0,0,0,0,0,0,9
+KO,2011-03-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KO,2010-09-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KO,2009-12-14,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+KO,2013-04-01,Accounts and People of Note in the Advertising Industry,Insufficient information,0.030389981,0.03158816,0.9380219,0,0,0,0,0,0,9
+KO,2011-03-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KO,2011-10-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KO,2014-03-04,"Selfies, Pizza and Promoting Brands at the Oscars",Insufficient information,0.061501697,0.021827333,0.9166709,0,0,0,0,0,0,8
+KO,2011-11-28,"Just Asking About J. Lo, Coke Zero and Cookies",Insufficient information,0.036415894,0.02949352,0.9340906,0,0,0,0,0,0,9
+KO,2011-09-19,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KO,2013-03-13,The Breakfast Meeting: Anna Wintour’s New Role and NPR Appeals to the Tweet Set,Insufficient information,0.06903608,0.012577805,0.91838616,0,0,0,1,0,0,14
+KO,2021-11-23,Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?,Insufficient information,0.061407484,0.07443803,0.8641545,0,0,0,0,0,0,11
+KO,2011-05-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KO,2011-03-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KR,2014-11-12,Should Cow Wow Sell to Little Children or Big Children?,Insufficient information,0.031548157,0.042960674,0.9254912,0,0,0,0,0,0,10
+KR,2010-11-08,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KR,2017-10-14,"An Alternate Universe of Shopping, in Ohio",Insufficient information,0.02429985,0.06868066,0.9070195,0,0,0,0,0,0,7
+KRFT,2011-08-05,"The Week That Was, in Verse",Insufficient information,0.039466105,0.07726729,0.88326657,0,0,0,0,0,0,6
+KRFT,2010-04-12,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+KRFT,2010-05-17,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+KRFT,2010-05-17,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+KRFT,2012-11-22,Everything’s Coming Up Pumpkin Pie,Insufficient information,0.15322989,0.019305594,0.8274645,0,0,0,0,0,0,5
+KRFT,2011-03-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KRFT,2010-11-15,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+KSU,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+LIFE,2013-10-10,A Novel Prompts a Conversation About How We Use Technology,Insufficient information,0.059013486,0.017948268,0.9230382,0,0,0,0,0,0,10
+LIFE,2012-06-08,How Twitter Changed My Life,Insufficient information,0.07683778,0.052971303,0.8701909,0,0,0,0,0,0,5
+LMT,2011-11-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+LNC,2011-10-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+LOW,2010-04-20,Take Me – and My Tires and Lawn and Cellphone – Out to the Ball Game,Insufficient information,0.030900633,0.03318125,0.93591815,0,0,0,0,0,0,16
+LOW,2010-08-15,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+LOW,2010-04-26,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+LOW,2010-06-07,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+LOW,2010-01-11,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+LOW,2011-08-29,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+LOW,2011-03-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+LRCX,2012-12-17,"The Breakfast Meeting: Reporting From Newtown, and a Puppet Provocateur",Insufficient information,0.04339491,0.01996731,0.9366377,0,0,0,0,0,0,10
+LRCX,2020-05-02,My Retirement Plan Is You,Insufficient information,0.02386579,0.035325825,0.9408084,0,0,0,0,0,0,5
+LRCX,2018-10-12,The Transformational Bliss of Borrowing Your Office Clothes,Insufficient information,0.059820887,0.025597487,0.91458166,0,0,0,0,0,0,8
+LUV,2010-05-05,Rumblings in the New York Skies,Insufficient information,0.04284463,0.73159933,0.22555599,0,0,0,0,0,0,6
+LUV,2010-05-05,Rumblings in the New York Skies,Insufficient information,0.04284463,0.73159933,0.22555599,0,0,0,0,0,0,6
+LUV,2010-01-11,"Talk to The Times: Micheline Maynard, Aviation Correspondent",Insufficient information,0.034400377,0.026934654,0.93866503,0,0,0,0,0,0,8
+LVS,2020-05-22,What Role Should Employers Play in Testing Workers?,Insufficient information,0.02984786,0.117076084,0.85307604,0,0,0,0,0,0,8
+LVS,2020-04-15,Who Tells Trump When to Restart the Economy,Insufficient information,0.04956442,0.02288769,0.92754793,0,0,0,0,0,0,8
+LYV,2021-04-18,"The Oscars Are a Week Away, but How Many Will Watch?",Insufficient information,0.031505622,0.110558875,0.8579354,0,0,0,0,1,0,11
+M,2013-05-27,"20 Questions on Soap, Cereal and Related Oddities",Insufficient information,0.02507435,0.06791369,0.9070119,1,0,0,0,0,0,8
+MA,2011-02-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+MAR,2015-05-06,How Many Stars for the Wi-Fi? ,Insufficient information,0.041314933,0.024734298,0.93395084,0,0,0,0,0,0,7
+MAR,2014-01-14,How Was Your Stay? Post It,Insufficient information,0.056588013,0.02404797,0.919364,0,0,0,0,0,0,6
+MAS,2009-12-07,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+MAT,2012-12-07,"Pictures From the Week in Business, Dec. 7",Insufficient information,0.018877769,0.08901801,0.89210427,0,0,0,0,0,0,8
+MAT,2012-02-25,"Go Directly, Digitally to Jail? Classic Toys Learn New Clicks",Insufficient information,0.06362398,0.030698325,0.90567774,0,0,0,0,0,0,10
+MAT,2010-11-29,Will ‘Mad Men’ Take a Reality Twist? And 19 Other Questions,Insufficient information,0.028790506,0.06336667,0.90784276,1,0,0,0,1,0,11
+MCD,2014-12-01,"Christmas Cokes, Ronald McDonald on Foot and 18 More Questions",Insufficient information,0.042679254,0.025556419,0.9317643,1,0,0,0,0,0,10
+MCD,2019-11-20,"One Whopper Jr., Hold the Toy",Insufficient information,0.041147653,0.020168867,0.9386835,0,0,0,0,0,0,6
+MCK,2014-01-21,Who’s In and Who’s Out at Davos,Insufficient information,0.0345339,0.0356565,0.9298096,0,0,0,0,0,0,7
+MCO,2014-11-17,"Retailers’ Earnings, Fed Minutes and a Panel on Wall St.",Insufficient information,0.027532028,0.0963794,0.8760886,0,0,0,0,0,0,10
+MDT,2011-01-24,Bill George: What the President Should Say,Insufficient information,0.038238782,0.029795524,0.93196565,0,0,0,0,0,0,7
+MFE,2012-12-15,"The Week in Business Pictures, Dec. 14",Insufficient information,0.018138718,0.12405678,0.85780454,0,0,0,0,0,0,7
+MFE,2012-12-07,"Pictures From the Week in Business, Dec. 7",Insufficient information,0.018877769,0.08901801,0.89210427,0,0,0,0,0,0,8
+MKC,2012-10-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+MKC,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+MKC,2011-09-19,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+MMC,2010-10-04,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+MMI,2011-08-19,"The Week That Was, in Verse",Insufficient information,0.039466105,0.07726729,0.88326657,0,0,0,0,0,0,6
+MMM,2015-12-28,"In the Twin Cities, Local Leaders Wield Influence Behind the Scenes",Insufficient information,0.05321672,0.025418548,0.9213648,0,0,0,0,0,0,11
+MMM,2021-05-07,"Can Companies Require Vaccination, and Should They?",Insufficient information,0.045028467,0.028441902,0.9265296,0,0,0,0,0,0,7
+MO,2010-02-19,"Coded to Obey Law, Lights Become Marlboro Gold",Insufficient information,0.04885498,0.031041214,0.9201037,0,0,0,0,0,0,8
+MOS,2012-08-04,"Marcus Samuelsson, a Chef, a Brand and Then Some",Insufficient information,0.032705273,0.029105974,0.93818873,0,0,0,0,0,0,9
+MOS,2020-12-23,The Workweek Diary of a Plant-Loving Home Décor Guru,Insufficient information,0.043690927,0.09219837,0.8641107,0,0,0,0,0,0,9
+MS,2011-09-16,Morgan Executive Fits a Choir Robe Beneath Her Pinstripes,Insufficient information,0.081813670694828,0.041249856352806,0.8769364953041077,0,0,0,0,0,0,9
+MS,2012-11-07,Will Obama and Congress Compromise?,Insufficient information,0.0587923191487789,0.1004601940512657,0.8407475352287292,0,0,0,0,1,0,5
+MSCI,2011-09-28,"Think Globally, Deal Locally",Insufficient information,0.09348241,0.024852581,0.881665,0,0,0,0,0,0,4
+MTB,2012-01-27,"Davos Potpourri, Day 3: Masters of Creation",Insufficient information,0.039794948,0.032303087,0.927902,0,0,0,0,0,0,7
+MTB,2014-01-21,Who’s In and Who’s Out at Davos,Insufficient information,0.0345339,0.0356565,0.9298096,0,0,0,0,0,0,7
+MWW,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+MWW,2010-11-08,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+NBL,2010-10-28,Sunday at the Bar With Chef Joe,Insufficient information,0.06726032,0.025597716,0.9071419,0,0,0,0,0,0,7
+NBL,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+NBR,2020-04-15,Who Tells Trump When to Restart the Economy,Insufficient information,0.04956442,0.02288769,0.92754793,0,0,0,0,0,0,8
+NDAQ,2014-01-21,Who’s In and Who’s Out at Davos,Insufficient information,0.0345339,0.0356565,0.9298096,0,0,0,0,0,0,7
+NDAQ,2018-03-02,Would a Broadcom-Qualcomm Deal Really Shift the 5G race?: DealBook Briefing,Insufficient information,0.13305221,0.014477435,0.85247034,0,0,0,0,0,0,11
+NE,2010-06-28,Accounts and People of Note in the Ad Industry ,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,10
+NE,2012-01-24,Free Pass for Matchmaking at a Setting in the Alps,Insufficient information,0.057439305,0.030515064,0.9120456,0,0,0,0,0,0,10
+NE,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+NKE,2011-11-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+NKE,2010-03-08,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+NKE,2016-08-14,It’s Thrilling. It’s Chilling. It’s a 30-Minute Commercial.,Insufficient information,0.045222625,0.026246104,0.9285313,0,0,0,0,0,0,8
+NKE,2011-08-29,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+NKE,2011-05-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+NKE,2011-02-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+NKE,2011-03-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+NKE,2018-07-28,Beauty Is in the Eye of These Beholders,Insufficient information,0.09988964,0.01548379,0.8846266,0,0,0,0,0,0,8
+NKE,2018-07-28,Beauty Is in the Eye of These Beholders,Insufficient information,0.09988964,0.01548379,0.8846266,0,0,0,0,0,0,8
+NLSN,2018-10-05,Where in the World Is Denmark’s $2 Billion?,Insufficient information,0.03165205,0.1541489,0.81419903,0,0,0,0,0,0,8
+NLSN,2010-10-25,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+NOV,2020-10-16,"Before Nov. 3, Watch This and This and This",Insufficient information,0.021519598,0.037350483,0.9411299,0,0,0,0,0,0,9
+NOV,2011-11-10,"Breakfast Meeting, Nov. 10",Insufficient information,0.02439214,0.051171884,0.92443603,0,0,0,0,0,0,4
+NOV,2011-11-10,"Breakfast Meeting, Nov. 10",Insufficient information,0.02439214,0.051171884,0.92443603,0,0,0,0,0,0,4
+NOV,2011-11-15,"Breakfast Meeting, Nov. 15",Insufficient information,0.025090298,0.06548839,0.9094213,0,0,0,0,0,0,4
+NOV,2011-11-23,"Breakfast Meeting, Nov. 23",Insufficient information,0.025312461,0.05563867,0.91904885,0,0,0,0,0,0,4
+NOV,2011-11-21,"Breakfast Meeting, Nov. 21",Insufficient information,0.025729354,0.064143084,0.91012764,0,0,0,0,0,0,4
+NOV,2011-11-29,"Breakfast Meeting, Nov. 29",Insufficient information,0.026284909,0.06905389,0.90466124,0,0,0,0,0,0,4
+NOV,2011-11-22,"Breakfast Meeting, Nov. 22",Insufficient information,0.026198613,0.06666756,0.9071339,0,0,0,0,0,0,4
+NOV,2011-11-25,"Breakfast Meeting, Nov. 25",Insufficient information,0.027553597,0.05533755,0.9171089,0,0,0,0,0,0,4
+NOV,2011-11-30,"Breakfast Meeting, Nov. 30",Insufficient information,0.025602736,0.06712933,0.90726787,0,0,0,0,0,0,4
+NOV,2011-11-28,"Breakfast Meeting, Nov. 28",Insufficient information,0.026758654,0.062689856,0.91055155,0,0,0,0,0,0,4
+NOV,2011-11-17,"Breakfast Meeting, Nov. 17",Insufficient information,0.026600324,0.065755785,0.90764385,0,0,0,0,0,0,4
+NOV,2012-12-01,"Pictures from the Week in Business, Nov. 30",Insufficient information,0.020636298,0.09859238,0.88077134,0,0,0,0,0,0,8
+NWSA,2010-06-08,A Spotlight Big Enough for One Bad Guy at a Time,Insufficient information,0.0800868,0.03587013,0.8840431,1,0,0,0,0,0,11
+NYT,2016-10-20,A.G. Sulzberger: Leading Change at The New York Times as Journalism Evolves,Insufficient information,0.1283903,0.014439098,0.85717064,0,1,0,0,0,0,12
+NYT,2010-05-05,Rumblings in the New York Skies,Insufficient information,0.04284463,0.73159933,0.22555599,0,0,0,0,0,0,6
+ODFL,2021-12-19,Brandon Just Wants to Drive His Racecar,Insufficient information,0.041728433,0.026257088,0.9320145,0,0,0,0,0,0,7
+ODP,2014-01-21,Who’s In and Who’s Out at Davos,Insufficient information,0.0345339,0.0356565,0.9298096,0,0,0,0,0,0,7
+ODP,2011-07-25,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-02-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2009-12-14,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+OMC,2010-04-19,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+OMC,2010-09-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-06-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-02-08,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+OMC,2010-02-16,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+OMC,2011-10-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-02-22,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+OMC,2010-10-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-10-04,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-09-27,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-02-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-03-29,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+OMC,2010-06-07,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+OMC,2010-02-08,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+OMC,2010-11-15,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-08-30,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-09-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-05-17,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+OMC,2010-07-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-08-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-02-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-02-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-01-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-03-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2013-09-30,"By the Light of the Silvery Spoon, Ads Propose Using Coffee as Creamer",Insufficient information,0.055621266,0.014711816,0.92966694,0,0,0,0,0,0,13
+OMC,2011-07-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-02-01,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+OMC,2010-06-14,Agency Two Fifteen Gets One More Executive,Insufficient information,0.039518993,0.021959934,0.938521,0,0,0,0,0,0,7
+OMC,2011-05-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-06-27,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-11-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-01-19,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+OMC,2011-01-24,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2012-11-05,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+OMC,2010-06-28,Accounts and People of Note in the Ad Industry ,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,10
+OMC,2010-10-25,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+OMC,2012-12-17,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+OMC,2011-01-10,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2014-01-27,Accounts and People of Note in the Advertising Industry,Insufficient information,0.030389981,0.03158816,0.9380219,0,0,0,0,0,0,9
+OMC,2011-08-29,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-07-25,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-04-04,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-06-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-09-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-05-16,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-12-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-12-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-11-08,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-09-19,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-05-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-03-15,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+OMC,2010-03-29,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+OMC,2011-09-26,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-06-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-10-03,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-03-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-07-12,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-11-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2012-05-07,Q. & A. With Stuart Elliott,Insufficient information,0.03626993,0.022115434,0.94161457,0,0,0,0,0,0,6
+OMC,2010-06-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-08-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2013-07-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-11-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2013-07-14,Accounts and People of Note in the Advertising Industry,Insufficient information,0.030389981,0.03158816,0.9380219,0,0,0,0,0,0,9
+OMC,2010-08-16,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-06-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-10-10,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-03-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-10-25,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2012-02-27,Accounts and People of Note in the Advertising Industry,Insufficient information,0.030389981,0.03158816,0.9380219,0,0,0,0,0,0,9
+OMC,2010-06-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-08-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-12-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-10-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-05-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-05-02,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2013-03-04,Accounts and People of Note in the Advertising Industry,Insufficient information,0.030389981,0.03158816,0.9380219,0,0,0,0,0,0,9
+OMC,2010-02-22,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+OMC,2010-03-15,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+OMC,2012-07-25,"Carpe Diem, Preferably in a Pair of Jeans",Insufficient information,0.04252219,0.02328372,0.9341941,0,0,0,0,0,0,8
+OMC,2011-03-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2013-08-26,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2012-11-12,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+OMC,2010-09-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-09-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2011-04-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2010-01-25,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+OMC,2012-01-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+OMC,2020-04-15,Who Tells Trump When to Restart the Economy,Insufficient information,0.04956442,0.02288769,0.92754793,0,0,0,0,0,0,8
+ORCL,2010-08-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+ORCL,2011-01-10,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2010-01-11,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+PBCT,2010-03-08,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+PBCT,2009-12-14,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+PBCT,2010-02-08,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+PBCT,2010-01-19,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+PBCT,2010-02-22,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+PBCT,2010-08-15,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+PBCT,2010-01-25,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+PBCT,2010-03-15,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+PBCT,2010-05-17,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+PBCT,2010-10-25,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+PBCT,2012-06-04,Accounts and People of Note in the Advertising Industry,Insufficient information,0.030389981,0.03158816,0.9380219,0,0,0,0,0,0,9
+PBCT,2009-12-07,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+PBCT,2010-03-08,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+PBCT,2011-06-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2010-06-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2012-01-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2010-08-30,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2010-02-01,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+PBCT,2010-05-24,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+PBCT,2011-06-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-05-02,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2012-10-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-10-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-10-03,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-11-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-07-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2012-11-12,Accounts and People of Note in Advertising,Insufficient information,0.022942131,0.04847108,0.9285868,0,0,0,0,0,0,7
+PBCT,2010-09-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2010-11-29,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2010-12-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-03-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-09-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-06-27,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-06-27,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-02-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-08-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PBCT,2011-03-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEG,2011-07-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEG,2010-12-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEG,2011-06-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEG,2012-10-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEG,2010-12-06,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEG,2010-06-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEG,2010-03-15,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+PEG,2019-11-19,These Villages in Thailand Are Part of the Global Economy. Go to Ikea to Find Out.,Insufficient information,0.043282755,0.021903722,0.9348135,0,0,0,0,0,0,16
+PEG,2011-09-19,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEG,2011-02-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PENN,2011-10-08,"Grilled Chicken, That Temperamental Star",Insufficient information,0.032706752,0.47995102,0.4873422,0,0,0,0,0,0,5
+PEP,2010-04-20,Take Me – and My Tires and Lawn and Cellphone – Out to the Ball Game,Insufficient information,0.030900633,0.03318125,0.93591815,0,0,0,0,0,0,16
+PEP,2019-07-19,When Corporate Lobbies Started to Look Like Museum Galleries,Insufficient information,0.030280262,0.058732554,0.9109872,0,0,0,0,0,0,9
+PEP,2011-05-02,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEP,2016-05-21,JuE Wong: A Serene Inner Sanctum at the Center of the Action,Insufficient information,0.10335609,0.014679995,0.88196397,0,0,0,0,0,0,12
+PEP,2010-11-29,Will ‘Mad Men’ Take a Reality Twist? And 19 Other Questions,Insufficient information,0.028790506,0.06336667,0.90784276,1,0,0,0,1,0,11
+PEP,2010-11-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEP,2010-09-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEP,2010-10-04,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEP,2010-08-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEP,2011-10-03,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEP,2011-04-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEP,2011-02-22,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PEP,2020-06-18,What Should Companies Do on Juneteenth?,Insufficient information,0.026323222,0.041448906,0.9322279,0,0,0,0,0,0,6
+PFG,2010-03-22,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+PFG,2010-10-04,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PFG,2010-03-29,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+PFG,2011-01-10,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PFG,2011-09-19,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PFG,2010-11-29,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PFG,2010-09-13,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PFG,2012-10-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PFG,2010-01-11,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+PFG,2010-01-25,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+PFG,2011-04-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PFG,2011-07-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PFG,2011-07-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PG,2011-06-16,Laundry Soaps Try a Hint of Horror and Some Tough-Guy Talk,Insufficient information,0.044510413,0.046802383,0.90868723,0,0,0,0,0,0,11
+PG,2010-11-29,Will ‘Mad Men’ Take a Reality Twist? And 19 Other Questions,Insufficient information,0.028790506,0.06336667,0.90784276,1,0,0,0,1,0,11
+PG,2013-05-27,"20 Questions on Soap, Cereal and Related Oddities",Insufficient information,0.02507435,0.06791369,0.9070119,1,0,0,0,0,0,8
+PG,2011-07-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PG,2010-05-17,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+PG,2012-06-21,Aiming for the Time and Place Right Before That Queasy Feeling,Insufficient information,0.041200865,0.021901218,0.9368979,0,0,0,0,0,0,11
+PG,2011-10-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PG,2011-11-28,"Just Asking About J. Lo, Coke Zero and Cookies",Insufficient information,0.036415894,0.02949352,0.9340906,0,0,0,0,0,0,9
+PG,2010-08-30,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PG,2011-03-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PG,2011-02-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PGR,2021-11-23,Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?,Insufficient information,0.061407484,0.07443803,0.8641545,0,0,0,0,0,0,11
+PGR,2021-11-23,Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?,Insufficient information,0.061407484,0.07443803,0.8641545,0,0,0,0,0,0,11
+PHM,2011-05-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PKG,2011-10-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PKG,2011-11-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PKG,2011-11-21,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PKG,2010-08-16,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PKG,2011-09-19,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PNC,2011-02-01,Senate Banking Staffer Joins Reed Smith,Insufficient information,0.022729073,0.12020878,0.85706216,0,0,0,0,0,0,6
+PRU,2014-02-22,"Mars, Venus and the Handling of Money",Insufficient information,0.025888823,0.04103318,0.933078,0,0,0,0,0,0,7
+PTC,2011-01-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+PYPL,2014-09-09,Today in Small Business: Best and Worst Cities for Hispanic Entrepreneurs,Insufficient information,0.06230921,0.3346459,0.6030449,1,1,0,0,1,0,11
+PYPL,2011-05-17,The Tech Audit: How a Small Retailer Handles I.T.,Insufficient information,0.045535143,0.022516409,0.9319485,0,0,0,0,0,0,9
+RAI,2010-08-16,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+RAI,2011-02-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+RCL,2011-04-27,Shrek and Po and Pals Are Headed to Gaylord Resorts,Insufficient information,0.031037575,0.04030318,0.92865926,0,0,0,0,0,0,10
+RDC,2016-05-29,"In the Hamptons, a Small-Town Paper Is a Beacon in the Mayhem",Insufficient information,0.18394226,0.016293634,0.7997641,0,0,0,0,0,0,12
+REG,2013-04-27,Where the Artists Are the Superheroes,Insufficient information,0.023938188,0.04839782,0.92766404,0,0,0,0,0,0,6
+REGN,2022-07-19,Can a ‘Magic’ Protein Slow the Aging Process?,Insufficient information,0.049743302,0.03860546,0.91165125,1,0,0,0,0,0,8
+RF,2010-08-30,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+RHT,2021-11-23,Red Brands and Blue Brands: Is Hyper-Partisanship Coming for Corporate America?,Insufficient information,0.061407484,0.07443803,0.8641545,0,0,0,0,0,0,11
+RL,2012-09-24,Accounts and People of Note in the Advertising Industry,Insufficient information,0.030389981,0.03158816,0.9380219,0,0,0,0,0,0,9
+ROK,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+ROP,2015-04-15,"Performing Math and Mime, for Fun and Profit",Insufficient information,0.033803143,0.030656142,0.9355407,0,0,0,0,0,0,8
+ROP,2011-03-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+ROP,2010-03-20,"Just Give Him 5 Sentences, Not ‘War and Peace’",Insufficient information,0.040834747,0.13609822,0.82306707,0,0,0,0,0,0,9
+ROST,2011-06-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+RRC,2011-01-20,"With Chiesi Gone, Will Rajaratnam Fight On?",Insufficient information,0.052334752,0.06459589,0.8830694,0,0,0,0,1,0,7
+SAI,2020-09-04,"Say My Name, Say My Name, Say My Name (Correctly!)",Insufficient information,0.02974902,0.07286867,0.8973823,0,0,0,0,0,0,10
+SBNY,2020-04-15,Who Tells Trump When to Restart the Economy,Insufficient information,0.04956442,0.02288769,0.92754793,0,0,0,0,0,0,8
+SBNY,2020-04-15,Who Tells Trump When to Restart the Economy,Insufficient information,0.04956442,0.02288769,0.92754793,0,0,0,0,0,0,8
+SBUX,2011-10-01,The Week’s Business News in Photos,Insufficient information,0.038577903,0.056656368,0.9047657,0,0,0,0,0,0,6
+SBUX,2012-11-22,Everything’s Coming Up Pumpkin Pie,Insufficient information,0.15322989,0.019305594,0.8274645,0,0,0,0,0,0,5
+SCHW,2010-02-13,Should Tax Bills Be Public Information?,Insufficient information,0.026002761,0.041839343,0.9321579,0,0,0,0,0,0,6
+SEE,2013-11-30,"Turning the Wheels of Justice, and Making Room for Springsteen",Insufficient information,0.083547145,0.02226174,0.8941911,0,0,0,0,0,0,10
+SHLD,2011-01-18,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SHLD,2010-10-25,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SHLD,2010-01-11,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+SHLD,2011-03-28,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SHW,2010-08-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SLE,2012-01-17,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SNA,2009-12-19,Snap and Search (No Words Needed),Insufficient information,0.022702262,0.07312439,0.9041733,0,0,0,0,0,0,6
+SNA,2016-08-06,Ready to Snap at Work? Get in Touch With Your Inner Animal,Insufficient information,0.09573227,0.027498309,0.8767694,0,0,0,0,0,0,12
+SNA,2017-05-17,Step Into Our Selfie Booth and Help Us Build Our Brand,Insufficient information,0.38803673,0.00904848,0.6029148,0,0,0,0,0,0,11
+SNI,2010-10-25,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SNI,2011-04-04,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SNI,2012-10-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SNI,2010-06-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SNI,2011-05-31,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SNI,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+SPG,2020-02-26,Should Robots Have a Face?,Insufficient information,0.027923997,0.09179677,0.88027924,0,0,0,0,0,0,5
+SPLS,2013-03-23,The Attachment That Still Makes Noise,Insufficient information,0.07010601,0.036815688,0.8930783,0,0,0,0,0,0,6
+STI,2009-12-01,Come to Park; Stay for the Architecture,Insufficient information,0.043919384,0.030010799,0.9260698,0,0,0,0,0,0,7
+STT,2010-08-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+STZ,2010-05-14,"How Do You Say ‘Lazy, Hazy, Crazy Days of Summer’ in Spanish?",Insufficient information,0.023410669,0.15459654,0.8219929,0,0,0,0,0,0,12
+SUN,2013-12-09,"For Natural Adversary of the Bargaining Table, Labor Holds a Banquet",Insufficient information,0.027274106,0.034721363,0.9380045,1,0,0,0,0,0,11
+SVU,2011-05-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SWK,2011-11-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+SYY,2014-01-21,Who’s In and Who’s Out at Davos,Insufficient information,0.0345339,0.0356565,0.9298096,0,0,0,0,0,0,7
+TGT,2018-06-19,Do You Know Where Your Pride T-Shirt Was Made?,Insufficient information,0.03192861,0.045411177,0.92266023,0,0,0,0,0,0,9
+TGT,2014-11-17,"Retailers’ Earnings, Fed Minutes and a Panel on Wall St.",Insufficient information,0.027532028,0.0963794,0.8760886,0,0,0,0,0,0,10
+TGT,2011-03-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+TGT,2015-12-28,"In the Twin Cities, Local Leaders Wield Influence Behind the Scenes",Insufficient information,0.05321672,0.025418548,0.9213648,0,0,0,0,0,0,11
+TIF,2022-12-31,How Barbara Walters Went From ‘Today Girl’ to Pioneering Media Star,Insufficient information,0.06261023,0.043181475,0.89420825,0,0,0,0,0,0,11
+TIF,2020-10-16,"Before Nov. 3, Watch This and This and This",Insufficient information,0.021519598,0.037350483,0.9411299,0,0,0,0,0,0,9
+TJX,2011-02-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+TMUS,2018-04-30,How Would a T-Mobile-Sprint Merger Affect Your Cellphone Bill?,Insufficient information,0.027291074,0.17101455,0.8016944,0,0,0,0,0,0,9
+TRIP,2014-01-14,How Was Your Stay? Post It,Insufficient information,0.056588013,0.02404797,0.919364,0,0,0,0,0,0,6
+TRIP,2014-02-03,How Much Is That Seat? A Travel Site Breaks It Down,Insufficient information,0.021191498,0.35398826,0.62482023,1,0,0,0,0,0,11
+TRIP,2012-01-10,The Breakfast Meeting: 3-D Olympics and Clearing the Way for Blue Ivy,Insufficient information,0.11876011,0.014399328,0.8668405,0,0,0,0,0,0,12
+TRV,2014-01-14,How Was Your Stay? Post It,Insufficient information,0.056588013,0.02404797,0.919364,0,0,0,0,0,0,6
+TRV,2017-07-03,Did You Pack Too Much? Your Suitcase Knows,Insufficient information,0.02507515,0.61281055,0.3621143,0,0,0,0,0,0,8
+TRV,2019-03-04,A.I. Wants to Know How You Plan a Trip,Insufficient information,0.040507644,0.015413204,0.94407916,0,0,0,0,0,0,9
+TRV,2019-03-04,A.I. Wants to Know How You Plan a Trip,Insufficient information,0.040507644,0.015413204,0.94407916,0,0,0,0,0,0,9
+TSLA,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+TTWO,2010-05-14,"Daisy, Daisy, Give Me Your Answer Do: Care to Ride a Virtual Bicycle?",Insufficient information,0.03152182,0.03664203,0.9318361,0,0,0,0,0,0,13
+TWTR,2022-11-06,How Molly Jong-Fast Tweeted Her Way to Liberal Media Stardom,Insufficient information,0.17882651,0.013482718,0.8076908,0,0,0,0,0,0,10
+TWTR,2012-06-08,How Twitter Changed My Life,Insufficient information,0.07683778,0.052971303,0.8701909,0,0,0,0,0,0,5
+TYL,2011-05-28,"Can I See Your License, Registration and C.P.U.?",Insufficient information,0.037205197,0.021922411,0.94087243,0,0,0,0,0,0,8
+TYL,2011-03-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+TYL,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+TYL,2010-11-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+UAA,2010-11-15,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+UAA,2011-09-19,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+UAL,2010-03-29,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+UHS,2010-09-20,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+UHS,2011-02-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+UHS,2011-09-12,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+UHS,2010-04-26,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+UHS,2010-10-11,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+ULTA,2017-11-22,Young and in Love … With Lipstick and Eyeliner,Insufficient information,0.08353945,0.06554495,0.85091555,0,0,0,0,0,0,9
+UPS,2010-11-10,Wednesday: The Check Is in the Mail,Insufficient information,0.028770706,0.055882197,0.9153471,0,0,0,0,0,0,7
+UPS,2010-02-22,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+UPS,2014-04-26,Where Vapor Comes Sweeping Down the Plain,Insufficient information,0.042446185,0.05282917,0.90472466,0,0,0,0,0,0,7
+URBN,2020-06-29,The Video Call Is Starting. Time to Put on Your Zoom Shirt.,Insufficient information,0.05014381,0.028807275,0.92104894,0,0,0,0,0,0,12
+V,2017-12-27,"When Picking Apples on a Farm With 5,000 Rules, Watch Out for the Ladders",Insufficient information,0.042855367,0.028515631,0.9286289,0,0,0,0,0,0,14
+VIAB,2015-03-31,"On Spike TV, Celebrities Clash Where Everyone Can Watch Their Lips Move",Insufficient information,0.030478176,0.21761629,0.7519055,0,0,0,0,0,0,12
+VIAB,2013-01-18,"The Breakfast Meeting: Armstrong Comes Clean, and Kucinich Enters the “Fox Lair”",Insufficient information,0.06583557,0.04391841,0.8902461,0,0,0,0,0,0,12
+VIAB,2011-02-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+VIAB,2010-04-26,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+VIAB,2010-10-04,"Accounts, People and Miscellany",Insufficient information,0.018028831,0.08827793,0.89369327,0,0,0,0,0,0,4
+VIAB,2016-02-06,How Sumner Redstone Went From Army Cryptographer to Media Mogul,Insufficient information,0.034047164,0.045779433,0.9201734,0,0,0,0,0,0,10
+VIAB,2011-10-08,Swashbuckling Times in Los Angeles,Insufficient information,0.045061667,0.054009624,0.9009287,0,0,0,0,0,0,5
+VZ,2018-04-30,How Would a T-Mobile-Sprint Merger Affect Your Cellphone Bill?,Insufficient information,0.027291074,0.17101455,0.8016944,0,0,0,0,0,0,9
+VZ,2010-04-12,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4
+WAT,2010-11-01,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+WDC,2011-05-16,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+WDC,2011-05-09,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+WDC,2010-03-29,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+WDC,2010-02-22,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+WDC,2011-02-14,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+WFC,2014-08-09,Where Surfboards Meet Whiteboards,Insufficient information,0.023812553,0.05481314,0.92137426,0,0,0,0,0,0,4
+WFM,2017-12-27,"When Picking Apples on a Farm With 5,000 Rules, Watch Out for the Ladders",Insufficient information,0.042855367,0.028515631,0.9286289,0,0,0,0,0,0,14
+WFM,2011-03-21,Will Mickey Mouse Wear a Milk Mustache?,Insufficient information,0.03362439,0.11117654,0.85519904,0,0,0,0,1,0,7
+WFM,2014-01-01,Would You Rather Run a Restaurant or Sell Tomato Sauce?,Insufficient information,0.030233944,0.049397502,0.92036855,0,0,0,0,0,0,10
+WM,2022-08-28,‘Wood Is Life’: A Hong Kong Sawmill’s Last Days,Insufficient information,0.04399842,0.13802034,0.81798124,0,0,0,0,0,0,9
+WMT,2020-02-26,Should Robots Have a Face?,Insufficient information,0.027923997,0.09179677,0.88027924,0,0,0,0,0,0,5
+WMT,2014-11-17,"Retailers’ Earnings, Fed Minutes and a Panel on Wall St.",Insufficient information,0.027532028,0.0963794,0.8760886,0,0,0,0,0,0,10
+WMT,2011-11-11,The Week’s Business News in Photos,Insufficient information,0.038577903,0.056656368,0.9047657,0,0,0,0,0,0,6
+WMT,2020-08-21,What we overheard on earnings calls.,Insufficient information,0.036467172,0.037491743,0.92604107,0,0,0,0,0,0,6
+WST,2010-09-07,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+WST,2010-02-16,People and Accounts of Note,Insufficient information,0.019552797,0.08532864,0.89511853,0,0,0,0,0,0,5
+WYNN,2020-05-22,What Role Should Employers Play in Testing Workers?,Insufficient information,0.02984786,0.117076084,0.85307604,0,0,0,0,0,0,8
+X,2019-07-10,These Companies Wanted Tariffs. How Are They Faring Now?,Insufficient information,0.05155351,0.4703794,0.47806704,0,0,0,0,0,0,9
+X,2013-12-09,"For Natural Adversary of the Bargaining Table, Labor Holds a Banquet",Insufficient information,0.027274106,0.034721363,0.9380045,1,0,0,0,0,0,11
+XEL,2015-12-28,"In the Twin Cities, Local Leaders Wield Influence Behind the Scenes",Insufficient information,0.05321672,0.025418548,0.9213648,0,0,0,0,0,0,11
+XL,2017-11-17,"DealBook Briefing: Corporate Taxes, Musk vs. Buffett, and Will Fox Strike a Deal?",Insufficient information,0.058419853,0.02348685,0.91809326,0,0,0,0,1,0,13
+XYL,2011-05-23,Accounts and People of Note in the Ad Industry,Insufficient information,0.027323967,0.036113188,0.93656284,0,0,0,0,0,0,9
+YHOO,2011-02-07,"Dr, Dr, Give Me Some Clues",Insufficient information,0.06208933,0.023701603,0.91420907,0,0,0,0,0,0,6
+YUM,2009-12-14,"Accounts, People & Miscellany",Insufficient information,0.02065646,0.08054023,0.89880323,0,0,0,0,0,0,4

@@ -1,0 +1,20 @@
+ticker,pub_date,main_headline,ChatGPT_sentiment,finbert_positive,finbert_negative,finbert_neutral,lmd_negative_words_count,lmd_positive_words_count,lmd_uncertain_words_count,lmd_litigious_words_count,lmd_strong_modal_words_count,lmd_weak_modal_words_count,word_count
+ADS,2011-01-01,How to Break Bread With the Republicans,Not relevant,0.056661963,0.038344696,0.90499336,1,0,0,0,0,0,7
+C,2011-06-28,Champagne Wishes and Condominium Dreams,Not relevant,0.042381197,0.031892817,0.925726,0,0,0,0,0,0,5
+CINF,2018-11-16,"He Was 302 Pounds, but in This Battle, He’s David and Not Goliath",Not relevant,0.032666896,0.056786016,0.9105471,0,0,0,0,0,0,13
+CMG,2018-07-29,When Is a Burrito More Than Just a Burrito? When It’s a Lifestyle,Not relevant,0.03193321,0.06516683,0.9029,0,0,0,0,0,0,13
+DOV,2013-04-19,Celebrating Black Beauty and Advocating Diversity,Not relevant,0.077882506,0.020167671,0.9019498,0,0,0,0,0,0,6
+GL,2021-10-10,Two Journalists Started an Argument in Boston in 1979. It’s Not Over Yet.,Not relevant,0.02324952,0.7694882,0.20726226,1,0,0,0,0,0,13
+HOT,2010-03-11,Forgot to Send a Birthday Card? Phone It In,Not relevant,0.036318462,0.043668464,0.920013,0,0,0,0,0,0,9
+IPG,2013-05-20,"A Season of Families, Vampires and Aliens",Not relevant,0.029827688,0.07577599,0.89439636,0,0,0,0,0,0,7
+KRFT,2018-11-16,"He Was 302 Pounds, but in This Battle, He’s David and Not Goliath",Not relevant,0.032666896,0.056786016,0.9105471,0,0,0,0,0,0,13
+NKE,2010-03-11,Forgot to Send a Birthday Card? Phone It In,Not relevant,0.036318462,0.043668464,0.920013,0,0,0,0,0,0,9
+OMC,2010-11-30,"Pass the Hairspray, Fight AIDS",Not relevant,0.0676578,0.02919276,0.9031494,0,0,0,0,0,0,5
+OMC,2013-03-26,"Shaving Below a Man’s Neck, if That’s What She Wants",Not relevant,0.051003285,0.039322928,0.9096738,0,0,0,0,0,0,10
+PBCT,2020-08-26,"In Britain, an Idea to Reduce Racial Inequality Gains Momentum",Not relevant,0.74725807,0.027054602,0.22568731,0,1,0,0,0,0,10
+PENN,2018-11-16,"He Was 302 Pounds, but in This Battle, He’s David and Not Goliath",Not relevant,0.032666896,0.056786016,0.9105471,0,0,0,0,0,0,13
+PEP,2013-04-02,Women in a Man’s World,Not relevant,0.035785418,0.055710986,0.9085036,0,0,0,0,0,0,5
+PG,2013-03-26,"Shaving Below a Man’s Neck, if That’s What She Wants",Not relevant,0.051003285,0.039322928,0.9096738,0,0,0,0,0,0,10
+PM,2013-10-28,Empower the People Around You,Not relevant,0.14368407,0.01037365,0.84594226,0,1,0,0,0,0,5
+SAI,2011-03-28,Playing Simon Says at Airport Security,Not relevant,0.11054861,0.029225962,0.86022544,0,0,0,0,0,0,6
+WM,2019-07-03,"Drink a Pint, Waste Less Food",Not relevant,0.04722675,0.046199907,0.9065733,0,0,0,0,0,0,6
