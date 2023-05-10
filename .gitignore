@@ -1,0 +1,13 @@
+/code/archive/*
+/code/results/*
+/code/.ipynb_checkpoints/*
+/data/archive/*
+/data/new_york_times/*
+/data/other_news/*
+/model/RandomForest.sav
+/data/train_test*
+dashboard/data/__pycache__
+dashboard/view/__pycache__
+deploy/notebooks/__pycache__
+/data/*
+.DS_Store
